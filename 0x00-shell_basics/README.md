@@ -7,3 +7,4 @@
 # 5. 5-listfilesdigitonly: Display current directory contents in long format, numerically and hidden files too
 # 6. 6-firstdirectory: Creates a directory my_first_directory in /tmp/ 
 # 7. 7-movethatfile: Moves file betty to my_first_directory
+# 8. 8-firstdelete: Deletes the betty file
