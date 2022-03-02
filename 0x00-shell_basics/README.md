@@ -12,4 +12,5 @@
 # 10. 10-back: Changes the working directory to the previous one
 # 11. 11-lists: Lists all files in current, parent and /boot directories, in long format
 # 12. 12-file_type: prints the type of file named iamafile
-# 13. 13-symbilic_link: Creates a symbolic link to /bin/ls   
+# 13. 13-symbilic_link: Creates a symbolic link to /bin/ls
+# 14. 14-copy_html: Copies html files from working directory to parent of working directory   
