@@ -14,4 +14,5 @@
 # 12. 12-file_type: prints the type of file named iamafile
 # 13. 13-symbilic_link: Creates a symbolic link to /bin/ls
 # 14. 14-copy_html: Copies html files from working directory to parent of working directory
-# 15. 100-lets_move: Moves all files beginnignwith an uppercase letter to the /tmp/u dir   
+# 15. 100-lets_move: Moves all files beginnignwith an uppercase letter to the /tmp/u dir
+# 16. 101-clean_emacs: Deletes all files in the pwd that end with ~   
