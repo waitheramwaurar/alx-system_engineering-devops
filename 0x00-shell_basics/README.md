@@ -17,4 +17,5 @@
 # 15. 100-lets_move: Moves all files beginnignwith an uppercase letter to the /tmp/u dir
 # 16. 101-clean_emacs: Deletes all files in the pwd that end with ~
 # 17. 102-tree: Creates the directories welcome/, welcome/to/ and welcome/to/school in pwd
-# 18. 103-commas: Lists all the files and directories of the current directory, separated by commas   
+# 18. 103-commas: Lists all the files and directories of the current directory, separated by commas
+# 19. school.mgc: Can be used with file command to detect School data files   
