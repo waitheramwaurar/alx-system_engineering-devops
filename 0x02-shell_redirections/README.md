@@ -6,3 +6,4 @@ The description of all the scripts in this folder are here
 4-lastlines: display the last 10 lines of /etc/passwd
 5-firstlines: displays the first 10 lines of /etc/passwd 
 6-third_line:displays the third line of the file iacta
+7-file: the file with a long name displays "Best School"
