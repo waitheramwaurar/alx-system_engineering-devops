@@ -22,4 +22,5 @@ The description of all the scripts in this folder are here
 20-hiago: removes all letters c and C from input
 21-reverse: reverses the input
 22-users_and_homes: displays all users and their home directories, sorted by users
-100-empty_casks: finds all empty files and directories in the current directoru and all sub-directories
+100-empty_casks: finds all empty files and directories in the current directory and all sub-directories
+101-gifs: lista all the files with a .gif extension in the current directory and all its subdirectories
