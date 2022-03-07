@@ -17,3 +17,4 @@ The description of all the scripts in this folder are here
 15-countthatword: displays the number of lines that conatin the pattern "bin" in the file /etc/passwd
 16-whatsnext: displays the lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 17-hidethisword: displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
+18-letteronly: display all the lines of the file /etc/ssh/sshd_config 
