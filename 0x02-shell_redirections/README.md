@@ -25,3 +25,4 @@ The description of all the scripts in this folder are here
 100-empty_casks: finds all empty files and directories in the current directory and all sub-directories
 101-gifs: lista all the files with a .gif extension in the current directory and all its subdirectories
 102-acrostic: decoded acrostics that use the first letter of each line
+103-the_biggest_fan: 
