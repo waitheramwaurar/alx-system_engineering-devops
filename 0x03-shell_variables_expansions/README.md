@@ -5,3 +5,4 @@ This is a README on Shell, init files, variables and expansions
 2-path: adds /action to PATH where /action should be the last directory the shell looks into
 3-paths: counts the number of directories in the PATH
 4-global_variables: lists environment variables
+5-local_variables: lista all local variables and environment variables and functions
