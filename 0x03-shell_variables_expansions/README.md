@@ -17,3 +17,4 @@ This is a README on Shell, init files, variables and expansions
 100-decimal_to_hexadecimal: converts a number from base 10 to base 16
 101-rot13: encodes and decodes text using the rot13 encryption, assumin ASCII
 102-odd: prints every other line frome the input, starting with the first line
+103-water_and_stir: adds the two nubers stored in the environment variables WATER and STIR and prints the result
