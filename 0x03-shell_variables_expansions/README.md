@@ -4,3 +4,4 @@ This is a README on Shell, init files, variables and expansions
 1-hello_you: prints hello user where the user is the current Linux user
 2-path: adds /action to PATH where /action should be the last directory the shell looks into
 3-paths: counts the number of directories in the PATH
+4-global_variables: lists environment variables
