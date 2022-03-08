@@ -11,3 +11,4 @@ This is a README on Shell, init files, variables and expansions
 8-true_knowledge: prints the reuslt of the addition of 128 with the values stores in the env variable TRUEKNOWLEDGE, followed by a new line
 9-divide_and_rule: prints the result of POWER divided by DIVIDE, followed by a new line
 10-love_exponent_breath: displays the result of BREATH to the power of LOVE
+11-binary_to_decimal: converts a number from base 2 to base 10
