@@ -8,3 +8,4 @@ This is a README on Shell, init files, variables and expansions
 5-local_variables: lista all local variables and environment variables and functions
 6-create_local_variable: creates a new local variable
 7-create_local_variable: creates a new global variable
+8-true_knowledge: prints the reuslt of the addition of 128 with the values stores in the env variable TRUEKNOWLEDGE, followed by a new line
