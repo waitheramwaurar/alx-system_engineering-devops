@@ -6,3 +6,4 @@ This is a README on Shell, init files, variables and expansions
 3-paths: counts the number of directories in the PATH
 4-global_variables: lists environment variables
 5-local_variables: lista all local variables and environment variables and functions
+6-create_local_variable: creates a new local variable
